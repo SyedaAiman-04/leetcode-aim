@@ -1,13 +1,18 @@
+import java.util.Arrays;
 class Solution {
     public int majorityElement(int[] nums) {
-        int count=0;
-        int canditate=0;
-        for(int num:nums){
-            if(count==0){
-                canditate=num;
-            }
-            count+=(num==canditate)?1:-1;
+        int n = nums.length;
+        int count = n/2;
+        int c=1;
+
+        Arrays.sort(nums);
+
+        for(int i=0; i<n-1; i++){
+            if(nums[i] == nums[i+1]){
+                c++;
+                if(c>count) return nums[i];
+            }else c=1;
         }
-        return canditate;
+        return nums[n-1];
     }
 }
