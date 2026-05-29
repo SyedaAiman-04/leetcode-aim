@@ -11,6 +11,7 @@ Always a learner
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/0169-majority-element/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@ Always a learner
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SyedaAiman-04/leetcode-aim/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
